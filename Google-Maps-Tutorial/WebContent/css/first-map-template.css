@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+body {
+	background: #fff;
+}
+#map {
+	height: 500px;
+	width: 500px;
+	border: 1px solid #000;
+}
+.infowindow {
+	width: 200px;
+}
